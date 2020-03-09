@@ -1,6 +1,6 @@
 FROM node:13.8.1
 
-COPY ..
+COPY . .
 
 RUN npm install
 
